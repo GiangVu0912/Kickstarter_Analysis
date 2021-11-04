@@ -4,7 +4,7 @@ Audience: Project owners who are considering to use Kickstarter
 
 Possible Big Questions:
 - What are the most lucrative categories on Kickstarter?
-- What factors need to be considered to have a successful project?
+- The trend of Number of Projects and Success Rate over time?
 
 ## Step 2: Clean Data 
 - Drop unnecessary columns
