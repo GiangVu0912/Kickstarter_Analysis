@@ -20,9 +20,10 @@ In the Top 10 Categories by Number of Projects and plot the Total Pledged.\
 In the Top 10 Categories by Number of Projects, plot the Average Pledge Per Project.\
 In the Top 10 Categories by Number of Projects, plot number of projects broken down by their states (failed/successful)
 
-![image](https://user-images.githubusercontent.com/56812443/139650869-040501b4-7b87-4f9c-9c04-62ae9787fa11.png)
+![image](https://user-images.githubusercontent.com/56812443/140254533-503dd2eb-431b-45ab-bc1a-bed755b28fbc.png)
 
-### What factors need to be considered to have successful projects?
+
+### The trend of Number of Projects and Success Rate over time?
 In the Top 10 Categories by Number of Projects, plot the trend of Number of Projects over the years. In the Top 10 Category by Number of Projects, plot the trend of Success Rate over the year.
 
 ![image](https://user-images.githubusercontent.com/56812443/139651264-3f3da2b6-caff-4932-8e92-4a010b260989.png)
